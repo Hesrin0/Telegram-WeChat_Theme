@@ -4,7 +4,8 @@ A Telegram theme color scheme based on WeChat colors, compatible with all versio
 
 一个基于微信配色的Telegram主题配色方案，兼容所有版本的Telegram。
 
-<img width="1948" height="1472" alt="image" src="https://github.com/user-attachments/assets/726073ca-24a6-4c76-8683-197f933a3649" />
+<img width="1944" height="1346" alt="image" src="https://github.com/user-attachments/assets/8e98b5be-8bcd-421c-8777-ddd9e103c710" />
+
 
 
 
