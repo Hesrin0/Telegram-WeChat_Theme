@@ -1,8 +1,8 @@
 # Telegram-WeChat_Theme
 
-A color scheme based on WeChat for a Telegram theme. Compatible with all versions of Telegram.
+A Telegram theme color scheme based on WeChat colors, compatible with all versions of Telegram.
 
-一个基于微信的Telegram主题配色方案 兼容所有版本的Telegram。
+一个基于微信配色的Telegram主题配色方案，兼容所有版本的Telegram。
 
 <img width="1948" height="1472" alt="image" src="https://github.com/user-attachments/assets/726073ca-24a6-4c76-8683-197f933a3649" />
 
